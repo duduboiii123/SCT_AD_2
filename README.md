@@ -46,5 +46,5 @@ This project was developed as part of an Android Development internship task.
 
 
 ## 👤 Author
-**Your Name**
+**Maharudra**
 Internship Task — SCT_AD_2
